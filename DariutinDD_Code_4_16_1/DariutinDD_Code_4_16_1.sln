@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DariutinDD_Code_4_16_1", "DariutinDD_Code_4_16_1\DariutinDD_Code_4_16_1.csproj", "{20231917-1DEB-48D9-B808-4FADE14DB94C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dariutin_Test_4_16_1", "Dariutin_Test_4_16_1\Dariutin_Test_4_16_1.csproj", "{F9306559-525B-4998-A48A-A6EAE47372DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20231917-1DEB-48D9-B808-4FADE14DB94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20231917-1DEB-48D9-B808-4FADE14DB94C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20231917-1DEB-48D9-B808-4FADE14DB94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20231917-1DEB-48D9-B808-4FADE14DB94C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9306559-525B-4998-A48A-A6EAE47372DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9306559-525B-4998-A48A-A6EAE47372DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9306559-525B-4998-A48A-A6EAE47372DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9306559-525B-4998-A48A-A6EAE47372DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/Dariutin_Test_4_16_1/Dariutin_Test_4_16_1.csproj": {}
+  },
+  "projects": {
+    "/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1.csproj",
+        "projectName": "DariutinDD_Code_4_16_1",
+        "projectPath": "/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1.csproj",
+        "packagesPath": "/Users/daniil/.nuget/packages/",
+        "outputPath": "/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/daniil/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/daniil/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/Dariutin_Test_4_16_1/Dariutin_Test_4_16_1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/Dariutin_Test_4_16_1/Dariutin_Test_4_16_1.csproj",
+        "projectName": "Dariutin_Test_4_16_1",
+        "projectPath": "/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/Dariutin_Test_4_16_1/Dariutin_Test_4_16_1.csproj",
+        "packagesPath": "/Users/daniil/.nuget/packages/",
+        "outputPath": "/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/Dariutin_Test_4_16_1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/daniil/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1.csproj": {
+                "projectPath": "/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/daniil/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

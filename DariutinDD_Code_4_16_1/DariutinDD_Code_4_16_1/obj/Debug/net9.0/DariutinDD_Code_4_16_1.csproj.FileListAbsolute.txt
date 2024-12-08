@@ -1,0 +1,14 @@
+/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/bin/Debug/net9.0/DariutinDD_Code_4_16_1
+/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/bin/Debug/net9.0/DariutinDD_Code_4_16_1.deps.json
+/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/bin/Debug/net9.0/DariutinDD_Code_4_16_1.runtimeconfig.json
+/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/bin/Debug/net9.0/DariutinDD_Code_4_16_1.dll
+/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/bin/Debug/net9.0/DariutinDD_Code_4_16_1.pdb
+/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/obj/Debug/net9.0/DariutinDD_Code_4_16_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/obj/Debug/net9.0/DariutinDD_Code_4_16_1.AssemblyInfoInputs.cache
+/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/obj/Debug/net9.0/DariutinDD_Code_4_16_1.AssemblyInfo.cs
+/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/obj/Debug/net9.0/DariutinDD_Code_4_16_1.csproj.CoreCompileInputs.cache
+/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/obj/Debug/net9.0/DariutinDD_Code_4_16_1.dll
+/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/obj/Debug/net9.0/refint/DariutinDD_Code_4_16_1.dll
+/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/obj/Debug/net9.0/DariutinDD_Code_4_16_1.pdb
+/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/obj/Debug/net9.0/DariutinDD_Code_4_16_1.genruntimeconfig.cache
+/Users/daniil/RiderProjects/DariutinDD_Code_4_16_1/DariutinDD_Code_4_16_1/obj/Debug/net9.0/ref/DariutinDD_Code_4_16_1.dll
